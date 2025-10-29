@@ -1,0 +1,28 @@
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE/editor directories
+.vscode/
+.idea/
+
+# Node / front-end build output
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# PHP dependencies
+vendor/
+composer.lock
+
+# WordPress generated content
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/ai1wm-backups/
+
+# Logs
+*.log
