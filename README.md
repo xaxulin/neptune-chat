@@ -1,6 +1,6 @@
 # NeptuneTV WordPress Theme
 
-Custom WordPress theme that recreates the look-and-feel of [neptunetv.com](https://neptunetv.com) and introduces a flexible outdoor product catalog.
+Custom WordPress theme that recreates the look-and-feel of neptunetv and introduces a flexible outdoor product catalog.
 
 ## Highlights
 
