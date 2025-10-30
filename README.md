@@ -64,4 +64,3 @@ wp-content/themes/neptunetv/
 - WordPress 5.8+
 - PHP 7.4+
 
-Enjoy creating unforgettable outdoor entertainment experiences with Neptune™!
